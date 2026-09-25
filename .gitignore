@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/ *.iml
+# Java compilado
+*.class
+# Maven
+target/
+# Carpeta de compilación de IntelliJ
+out/
+# Logs
+*.log
+# Sistema operativo
+.DS_Store
+Thumbs.db
+

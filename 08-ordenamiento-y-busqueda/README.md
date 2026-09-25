@@ -1,0 +1,1 @@
+# 08 Ordenamiento Y Busqueda\n\nBurbuja, selección, inserción, Shell, búsqueda secuencial y búsqueda binaria.\n\nEsta etapa contiene 25 ejercicios progresivos.\n

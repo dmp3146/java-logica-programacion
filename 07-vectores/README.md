@@ -1,0 +1,1 @@
+# 07 Vectores\n\nArrays unidimensionales: lectura, recorrido, estadísticas, búsqueda y transformación.\n\nEsta etapa contiene 30 ejercicios progresivos.\n

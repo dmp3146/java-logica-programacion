@@ -1,0 +1,1 @@
+# 02 Secuencial\n\nProblemas secuenciales del Taller de Estructura Secuencial de la guía suministrada.\n\nEsta etapa contiene 28 ejercicios progresivos.\n

@@ -1,0 +1,1 @@
+# 09 Matrices\n\nArrays bidimensionales: recorridos por filas/columnas, diagonales y operaciones.\n\nEsta etapa contiene 25 ejercicios progresivos.\n

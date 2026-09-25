@@ -1,0 +1,1 @@
+# Ejercicio 006\n\n## Tema\nBurbuja, selección, inserción, Shell, búsqueda secuencial y búsqueda binaria.\n\n## Enunciado\nPendiente de resolver.\n\n## Entrada\n-\n\n## Proceso\n-\n\n## Salida\n-\n\n## Pseudocódigo\n```text\nPendiente\n```\n\n## Pruebas\nPendiente.\n

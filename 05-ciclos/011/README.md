@@ -1,0 +1,1 @@
+# Ejercicio 011\n\n## Tema\nwhile, do-while, for, ciclos anidados, acumuladores y contadores.\n\n## Enunciado\nPendiente de resolver.\n\n## Entrada\n-\n\n## Proceso\n-\n\n## Salida\n-\n\n## Pseudocódigo\n```text\nPendiente\n```\n\n## Pruebas\nPendiente.\n

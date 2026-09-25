@@ -1,0 +1,1 @@
+# Ejercicio 002\n\n## Tema\nif, if/else, else-if, condiciones compuestas y condicionales anidados.\n\n## Enunciado\nPendiente de resolver.\n\n## Entrada\n-\n\n## Proceso\n-\n\n## Salida\n-\n\n## Pseudocódigo\n```text\nPendiente\n```\n\n## Pruebas\nPendiente.\n
