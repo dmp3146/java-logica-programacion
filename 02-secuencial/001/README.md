@@ -1,35 +1,45 @@
-# Ejercicio 001 — Estructura secuencial
+# Ejercicio 001 — Suma y diferencia de dos valores
 
-## Enunciado de la guía
+## 1. Enunciado
 
-> Realice un algoritmo que capturados dos valores por pantalla encuentre: La suma, y la diferencia, de ambos números.
+Realice un algoritmo que capturados dos valores por pantalla encuentre:
 
-## Qué debo hacer
+- La suma de ambos números.
+- La diferencia de ambos números.
 
-Resolver el ejercicio en Java siguiendo el proceso de trabajo de la guía:
+---
 
-1. Analizar el problema.
-2. Identificar datos de entrada.
-3. Identificar proceso y fórmulas.
-4. Identificar datos de salida.
-5. Escribir pseudocódigo.
-6. Hacer una prueba de escritorio.
-7. Implementar en Java.
-8. Probar con datos concretos.
-9. Registrar el resultado y las observaciones.
+## 2. ¿Qué debo hacer?
 
-## Mi solución
+El programa debe solicitar al usuario dos valores numéricos.
 
-- **Entrada:** Pendiente de completar.
-- **Proceso:** Pendiente de completar.
-- **Salida:** Pendiente de completar.
-- **Pseudocódigo:** Pendiente de completar.
-- **Prueba de escritorio:** Pendiente de completar.
-- **Java:** `src/Ejercicio001.java`
-- **Resultado de pruebas:** Pendiente de completar.
+Después debe:
 
-## Aprendizaje
+1. Leer el primer número.
+2. Leer el segundo número.
+3. Calcular la suma de los dos números.
+4. Calcular la diferencia entre los dos números.
+5. Mostrar los resultados en pantalla.
 
-**Conceptos que practico:** estructura secuencial, variables, entrada, operaciones, salida.
+Este ejercicio corresponde a una estructura secuencial, ya que las instrucciones se ejecutan en orden.
 
-> Este README conserva el enunciado de la guía. La solución se completa durante el estudio; no se inventa una respuesta que no aparezca en la guía.
+---
+
+## 3. Análisis del problema
+
+### Entrada
+
+Los datos que debe ingresar el usuario son:
+
+| Variable | Tipo | Descripción |
+|----------|------|-------------|
+| `numero1` | `double` | Primer número ingresado |
+| `numero2` | `double` | Segundo número ingresado |
+
+### Proceso
+
+Se realizan dos operaciones:
+
+```text
+suma = numero1 + numero2
+diferencia = numero1 - numero2
