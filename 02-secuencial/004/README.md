@@ -4,6 +4,7 @@
 
 > Calculate the length that must go an insect that is moves by the shore of a salon of class, if starts its tour to the home of it wall right of the door and it ends when ends it wall left of it same. Taking into account that the Hall has a square shape, with a given length and that the door has a length equal to one third of the wall.
 
+> Calcular la distancia que de recorrer un insecto que se desplaza por el borde de un salon de clase, si comienza su recorrido en el extremo derecho de la puerta y termina en el extremo izquierdo de la misma. Se debe tener en cuenta que el salon tiene forma cuadrada, con una longitud de lado dada, y que la puerta tiene una longitud igual a un tercio de la longitud de la pared.
 ## Qué debo hacer
 
 Resolver el ejercicio en Java siguiendo el proceso de trabajo de la guía:
