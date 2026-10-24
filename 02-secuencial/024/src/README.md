@@ -1,1 +1,0 @@
-# Pendiente\n\nEsta carpeta está preparada para futuros ejercicios.\n
